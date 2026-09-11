@@ -1,2 +1,2 @@
-# Fox_Archiver_GUI_NG
+# Fox_Archiver_GUI
 Graphical Interface For fox_archiver_api
