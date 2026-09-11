@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/09/01 02:07:19.000.031,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/09/01 02:07:51.000.043,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\HashList.pas</Transaction>
+    <Transaction>2026/09/01 02:07:51.000.043,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\HashList.fmx</Transaction>
+    <Transaction>2026/09/01 02:08:12.000.434,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\HashViewer.dproj</Transaction>
+    <Transaction>2026/09/01 02:08:36.000.668,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\HashList.pas=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\HashList.pas</Transaction>
+    <Transaction>2026/09/01 02:08:36.000.668,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\HashList.fmx=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\HashList.fmx</Transaction>
+    <Transaction>2026/09/01 02:08:40.000.233,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\HashViewer.dproj=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\HashViewer.dproj</Transaction>
+    <Transaction>2026/09/01 02:13:19.000.675,=C:\Users\Administrator\Documents\My_Projects\VirtualFileList.pas</Transaction>
+    <Transaction>2026/09/01 02:16:24.000.997,=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\HashboxFunctions.pas</Transaction>
+    <Transaction>2026/09/01 02:17:02.000.912,=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\HashStream.pas</Transaction>
+    <Transaction>2026/09/01 02:17:14.000.581,=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\contrib\XXHASH4Delphi\XXHASHLIB.pas</Transaction>
+    <Transaction>2026/09/01 02:17:14.000.549,=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\contrib\XXHASH4Delphi\XXHASH.pas</Transaction>
+    <Transaction>2026/09/01 02:17:30.000.453,=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\contrib\LIBC\libc.pas</Transaction>
+    <Transaction>2026/09/01 02:25:56.000.451,=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\UIFunctions.pas</Transaction>
+    <Transaction>2026/09/01 02:42:11.000.417,C:\Users\Administrator\Documents\My_Projects\VirtualFileList.pas=</Transaction>
+    <Transaction>2026/09/01 02:42:16.000.160,=C:\Users\Administrator\Documents\My_Projects\FoxArchiverNG\VirtualFileList.pas</Transaction>
+  </Transactions>
+</BorlandProject>
